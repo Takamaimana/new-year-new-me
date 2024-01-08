@@ -1,13 +1,25 @@
+.header{
+     width: 1320px;
+     height: 600px;
+     flex-shrink: 0;
+     background-image:url("Banner\ Image.png");
+}
+
 /*common shread style*/
 body{
     font-family: 'Merriweather', serif;
     font-family: 'Open Sans', sans-serif;
 }
-.text primary {
-    color: #FFF;
-}
+
+   
+
 
 /*nav related style*/
 
+.nav-title{
+    color: #FFF;
+   
+
+}
  
 
